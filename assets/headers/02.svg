@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="52" viewBox="0 0 840 52" role="img">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#6c63ff"/><stop offset=".5" stop-color="#3b82f6"/><stop offset="1" stop-color="#06b6d4"/></linearGradient><style></style></defs>
+<text x="0" y="34" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" font-weight="600" fill="#06b6d4" text-anchor="start" >02</text><text x="34" y="34" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" font-weight="400" fill="#6e6e8a" text-anchor="start" >—</text><text x="58" y="34" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#e8e8f0" text-anchor="start" >How I build</text><rect x="232" y="27" width="608" height="2" rx="1" fill="url(#g)" opacity=".55"/>
+</svg>

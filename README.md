@@ -1,84 +1,65 @@
-<h1 align="center">Hi 👋, I'm Hasnat Rasool</h1>
-<h3 align="center">I'm a Computer Science graduate from FAST-NUCES Islamabad.</h3>
+<div align="center">
 
-- 📫 How to reach me **hasnatrasool620@gmail.com**
+<a href="https://h-rasool.github.io">
+  <img src="assets/hero.svg" alt="Hasnat Rasool — AI/ML Software Engineer" width="100%" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hasnat-rasool-3a6885249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hasnat Rasool" height="30" width="40" /></a>
+<a href="https://h-rasool.github.io"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/hasnatrasool"><img src="https://img.shields.io/badge/LinkedIn-06b6d4?style=for-the-badge&logo=linkedin&logoColor=0f0f1a" alt="LinkedIn" /></a>
+<a href="mailto:hasnatrasool620@gmail.com"><img src="https://img.shields.io/badge/Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://h-rasool.github.io/Resume/Hasnat_Rasool_Resume.pdf"><img src="https://img.shields.io/badge/Resume-1c1c2e?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+
+</div>
+
+<br />
+
+<img src="assets/headers/01.svg" alt="01 — About" width="100%" />
+<img src="assets/bento/about.svg" alt="About Hasnat Rasool" width="100%" />
+
+<br />
+
+<img src="assets/headers/02.svg" alt="02 — How I build" width="100%" />
+<img src="assets/bento/pipeline.svg" alt="Ingest, retrieve, orchestrate, guard, serve, trace" width="100%" />
+
+<br />
+
+<img src="assets/headers/03.svg" alt="03 — Selected work" width="100%" />
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://h-rasool.github.io/#experience"><img src="assets/bento/work-langgraph.svg" alt="n8n to LangGraph migration" width="100%" /></a></td>
+    <td width="50%"><a href="https://h-rasool.github.io/#experience"><img src="assets/bento/work-pmo.svg" alt="PMO Engine" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://h-rasool.github.io/#experience"><img src="assets/bento/work-waterfall.svg" alt="3-Tier AI Waterfall" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/H-rasool/time-series-visiualization-tool"><img src="assets/bento/work-timeseries.svg" alt="Time-Series Visualizer" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/H-rasool/EngineerBot"><img src="assets/bento/work-engineerbot.svg" alt="EngineerBot" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/H-rasool/EvolutionAPI-n8n"><img src="assets/bento/work-whatsapp.svg" alt="WhatsApp Automation Stack" width="100%" /></a></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Client and employer work is described on the <a href="https://h-rasool.github.io/#experience">portfolio</a>; open-source projects link straight to their repos.</sub></p>
+
+<br />
+
+<img src="assets/headers/04.svg" alt="04 — Toolkit" width="100%" />
+<img src="assets/bento/stack.svg" alt="Tech stack" width="100%" />
+
+<p align="center">
+  <sub><b>Certifications</b> &nbsp;·&nbsp; AWS Academy Graduate — Microservices &amp; CI/CD &nbsp;·&nbsp; freeCodeCamp — JavaScript Algorithms &amp; Data Structures &nbsp;·&nbsp; DataCamp — Introduction to Python &nbsp;·&nbsp; W3Schools — HTML &amp; CSS</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github actions" width="40" height="40"/>
-  </a>
-</p>
+<br />
 
+<img src="assets/headers/05.svg" alt="05 — Activity" width="100%" />
+<img src="assets/stats.svg" alt="Impact in numbers" width="100%" />
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=H-rasool&theme=chartreuse_dark">
-</p>
+<img src="https://raw.githubusercontent.com/H-rasool/H-rasool/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph eaten by a snake" width="100%" />
 
- 
+<br />
+
+<a href="mailto:hasnatrasool620@gmail.com">
+  <img src="assets/contact.svg" alt="Let's build something dependable — get in touch" width="100%" />
+</a>
